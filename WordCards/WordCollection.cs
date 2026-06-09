@@ -26,6 +26,7 @@ namespace WordCards
                 WordItem item = new WordItem(line);
                 this.Add(item);
             }
+/// 提交
         }
         /// <summary>
         /// 將 WordCollection 物件的資料儲存到檔案中
